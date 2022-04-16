@@ -1,0 +1,7 @@
+res
+dist
+.DS_Store
+__pycache__
+LEVIR_dataset
+.ipynb_checkpoints
+changeDetector.egg-info
